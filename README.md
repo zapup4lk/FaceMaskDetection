@@ -28,11 +28,13 @@ In the future it is planned to rebuild the model on the basis of MobileNetV2 arc
   
 ## :file_folder: Dataset
   
-The dataset can be downloaded here - [Click to Download]()
+The dataset can be downloaded here - [Click to Download](https://www.kaggle.com/vijaykumar1799/face-mask-detection)
   
 This dataset consists of __6000 images__ belonging to two classes:
 *	__with_mask: 3000 images__
 *	__without_mask: 3000 images__
+  
+The images were collected from [Kaggle](https://www.kaggle.com/)
   
 ## :key: Prerequisites
 
