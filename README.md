@@ -6,7 +6,7 @@
 ## Motivation
 With the COVID-19 pandemic worldwide, the entire world population was forced to wear personal protective equipment (medical masks, rubber gloves, etc.) to protect themselves and others. But, unfortunately, many people neglect these rules.
   
-<p align="center"><img src="https://drive.google.com/file/d/1ppesELHN9WBIqQ8WIVgYLkGdhGr4lUEW/view?usp=sharing" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/zapup4lk/FaceMaskDetection/blob/main/Examples/Ex%20No.%203" width="700" height="400"></p>
   
 ## :warning: TechStack/Frameworks used
 
@@ -29,3 +29,16 @@ In the future it is planned to rebuild the model on the basis of MobileNetV2 arc
 ## :file_folder: Dataset
   
 The dataset can be downloaded here - [Click to Download]()
+  
+This dataset consists of __6000 images__ belonging to two classes:
+*	__with_mask: 3000 images__
+*	__without_mask: 3000 images__
+  
+## :key: Prerequisites
+
+All required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/zapup4lk/FaceMaskDetection/blob/main/requirements.txt)
+
+## :key: Results
+  
+#### We got the following accuracy/loss training curve plot
+![](https://github.com/zapup4lk/FaceMaskDetection/blob/main/plot.png)
