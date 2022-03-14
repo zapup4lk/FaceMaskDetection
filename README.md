@@ -30,9 +30,10 @@ In the future it is planned to rebuild the model on the basis of MobileNetV2 arc
   
 The dataset can be downloaded here - [Click to Download](https://www.kaggle.com/vijaykumar1799/face-mask-detection)
   
-This dataset consists of __6000 images__ belonging to two classes:
+This dataset consists of __9000 images__ belonging to three classes:
 *	__with_mask: 3000 images__
 *	__without_mask: 3000 images__
+* __mask_weared_incorrect: 3000 images__
   
 The images were collected from [Kaggle](https://www.kaggle.com/)
   
