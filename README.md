@@ -54,7 +54,7 @@ $ cd FaceMaskDetection
 
 3. Create a python virtual environment named 'test' and activate it
 ```
-$ virtualvenv test
+$ virtualenv test
 ```
 ```
 $ source test/bin/activate
