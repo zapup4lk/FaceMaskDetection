@@ -20,11 +20,11 @@ With the COVID-19 pandemic worldwide, the entire world population was forced to 
   
 ### :star: Features
   
-Our face mask detector doesn't use any morphed masked images dataset and the model is relatively accurate. 
+Our face-mask detector doesn't use any morphed masked images dataset and the model is relatively accurate. 
 
-This system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19. This project can be integrated with embedded systems for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed.
+This system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19. This project can be integrated with embedded systems for application in airports, railway stations, offices, schools and public places to ensure that public safety guidelines are followed.
   
-In the future it is planned to rebuild the model on the basis of MobileNetV2 architecture, it is computationally efficient, thus making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, etc.).
+In the future it is planned to rebuild the model on the basis of MobileNetV2 architecture, it is computationally efficient, this making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, etc.).
   
 ### :file_folder: Dataset
   
