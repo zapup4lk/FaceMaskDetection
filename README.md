@@ -40,7 +40,45 @@ The images were collected from [Kaggle](https://www.kaggle.com/)
 ### :key: Prerequisites
 
 All required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/zapup4lk/FaceMaskDetection/blob/main/requirements.txt)
+ 
+### Installation
 
+1. Clone the repo
+```
+$ git clone https://github.com/zapup4lk/FaceMaskDetection.git
+```
+  
+2. Change your derictory to the cloned repo
+```
+$ cd FaceMaskDetection
+```
+
+3. Create a python virtual environment named 'test' and activate it
+```
+$ virtualvenv test
+```
+```
+$ source test/bin/activate
+```
+  
+4. Now, run the following command in your terminal to install the libs
+```
+$ pip3 install -r requirements.txt
+```
+
+
+### :bulb: Working
+  
+1. Open terminal. Go into the cloned project directory and type the following command:
+```
+$ python3 train_mask_detector.py --dataset dataset
+```
+  
+2. To detect face masks in real-time video streams type the following command:
+```
+$ python3 detect_mask_video.py
+```
+  
 ### :key: Results
   
 ### We got the following accuracy/loss training curve plot
