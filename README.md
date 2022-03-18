@@ -81,6 +81,11 @@ $ python3 train_mask_detector.py --dataset dataset
 $ python3 detect_mask_video.py
 ```
   
+3. To detect face masks in an image type the following command:
+```
+$ python detect_mask_image --image /path_to_file
+```
+  
 ### :key: Results
   
 ### We got the following accuracy/loss training curve plot
